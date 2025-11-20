@@ -2,7 +2,7 @@ import React from 'react'
 
 const Hero = () => {
   return (
-    <div className='p-4 flex text-gray-700 font-bold justify-between '>
+    <div className='p-4 flex text-gray-700 font-bold justify-between text-xs'>
         <div>
             <img src='/blank_female.png' alt='parsad' className='w-40 rounded-lg'/>
             <div className='text-center pt-2'>
@@ -12,7 +12,7 @@ const Hero = () => {
 
         </div>
         <div className='p-10'>
-            <p className='text-4xl'>Ward No. 10</p>
+            <p className='text-4xl hidden md:block'>Ward No. 10</p>
         </div>
         <div>
             <img src='/parsad.png' alt='parsad' className='w-40 rounded-lg'/>
