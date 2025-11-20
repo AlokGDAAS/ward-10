@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <div className=' bg-[#278D27]'>
       <div className='p-2 md:w-10/12 mx-auto flex justify-between'>
-        <img src='/logo.png' alt='logo' className='w-18'/>  
+        <img src='/logo.png' alt='logo' className='md:w-18 w-9'/>  
         
           <ul className='flex items-center gap-16 text-lg text-white font-semibold hidden'>
             <li className='cursor-pointer'>Home</li>
@@ -16,7 +16,7 @@ const Navbar = () => {
           </ul>
       
 
-        <img src='/logo.png' alt='logo' className='w-18'/>  
+        <img src='/logo.png' alt='logo' className='md:w-18 w-9'/>  
 
       </div>
     </div>
