@@ -119,6 +119,7 @@ const BLO = () => {
                     </tbody>
                 </table>
             </div>
+            <div className='p-8'></div>
         </div>
     );
 };
