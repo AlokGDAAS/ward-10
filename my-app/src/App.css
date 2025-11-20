@@ -1,0 +1,35 @@
+.main{
+    background-color: #f79d09c8;
+    min-height: 100vh;
+}
+.home{
+    background-color: #edce9d;
+    
+}
+.divider-sm{
+    padding: 0.5rem;
+}
+
+.blo{
+    
+    background-color: antiquewhite;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px #888888;
+    font-weight: 500;
+    color: rgb(59, 59, 59);
+    
+
+}
+
+th{
+    padding: 5px;
+    text-align: center;
+    border: 2px solid gray;
+    background: orange;
+    
+}
+td{
+    padding: 5px;
+    text-align: center;
+    border: 2px solid gray;
+}
