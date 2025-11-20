@@ -87,7 +87,7 @@ const BLO = () => {
 
     return (
         <div className='w-23/24 mx-auto '>
-            <div className='blo py-8'>
+            <div className='blo py-8 overflow-auto'>
                 <table className='w-11/12 mx-auto '>
                     <thead>
                         <tr>
